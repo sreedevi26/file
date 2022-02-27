@@ -1,0 +1,24 @@
+body{
+    background-image: url('../img/student_class.jpg');
+}
+form{
+    background-color: aliceblue;
+    /* margin-top: 150px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px; */
+    border-radius:2px;
+padding:20px 30px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:350px;
+margin:50px 250px 10px 75px;
+float:left;
+    
+
+
+}
+h2{
+    text-align: center;
+}
